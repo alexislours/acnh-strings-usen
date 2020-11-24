@@ -60,6 +60,13 @@ label;English
 1161;painter's coverall
 117;grape dress
 118;pineapple dress
+1204;egg party dress
+1205;earth-egg outfit
+1206;stone-egg outfit
+1207;leaf-egg outfit
+1208;wood-egg outfit
+1209;sky-egg outfit
+1210;water-egg outfit
 146;nurse's dress uniform
 150;PJ outfit
 153;ruffled dress
@@ -174,11 +181,11 @@ label;English
 477;desert-princess outfit
 482;zigzag-print dress
 483;shorts outfit
-486;ice-queen dress
+486;icy dress
 488;cold-country dress
 490;mariachi clothing
 491;marble-print dress
-492;mermaid dress
+492;shell dress
 500;long chenille cardigan
 512;sweet dress
 514;impish costume
