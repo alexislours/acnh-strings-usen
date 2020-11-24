@@ -4,6 +4,7 @@ Balloon_13123;red balloon
 Balloon_13124;yellow balloon
 Balloon_13125;green balloon
 Balloon_13126;pink balloon
+BigbagPresent_13836;magic bag
 BlowBubble_04386;bubble blower
 BlowBubble_04386_pl;bubble blowers
 DummyCardboard_04645;delivery
@@ -23,11 +24,14 @@ DummyHowtoBook_11140;Ultimate Pocket Stuffing
 DummyHowtoBook_12185;Custom Design Pro Editor
 DummyHowtoBook_13256;Body-Paint Costume Tips
 DummyHowtoBook_13257;Exploring New Eye Colors
+DummyHowtoBook_13610;Hip Reaction Collection
+DummyHowtoBook_13766;Top 6 Stylish Hairstyles
 DummyPresentbox_04480;present
 DummyRecipe_02695;ダミーDIYレシピ
 DummyRecipe_05603;DIY for Beginners
 DummyRecipe_05604;Test Your DIY Skills
 DummyRecipe_05605;Wildest Dreams DIY
+DummyRecipe_13787;Cozy Turkey Day DIY
 DummyWrapping_07699;present
 DummyWrapping_07700;present
 DummyWrapping_07701;present
@@ -44,6 +48,7 @@ DummyWrapping_07711;present
 DummyWrapping_07712;present
 DummyWrapping_07713;present
 DummyWrapping_07714;present
+DummyWrapping_13793;gift
 FierworkHand_05743;red sparkler
 FierworkHand_05743_pl;red sparklers
 FierworkHand_12974;blue sparkler
@@ -68,11 +73,13 @@ HousingKit_05359;tailors moving kit
 HousingKit_05360;shop moving kit
 HousingKit_05361;museum moving kit
 HousingKit_06841;campsite moving kit
+HousingKit_13346;transfer kit
 HousingKitBirdge_04310;bridge marker kit
 HousingKitBirdge_07211;bridge construction kit
 HousingKitRcoQuest_05827;plot 1 housing kit
 HousingKitRcoQuest_05828;plot 2 housing kit
 HousingKitRcoQuest_05829;plot 3 housing kit
+JuiceFuzzyapple_13835;sparkling cider
 LicenseItem_08773;stone path permit
 LicenseItem_08774;brick path permit
 LicenseItem_08775;dark dirt path permit
@@ -100,6 +107,7 @@ PartyPopper_02753;party popper
 PartyPopper_02753_pl;party poppers
 PitFallSeed_02578;pitfall seed
 PitFallSeed_02578_pl;pitfall seeds
+QuestChristmasPresentbox_13869;someone's gift
 QuestWrapping_04245;delivery box
 StickLight_05741;light stick
 Tambourine_05430;tambourine
@@ -142,3 +150,5 @@ WrappingPaper_07697;gray wrapping paper
 WrappingPaper_07697_pl;gray wrapping paper
 WrappingPaper_07698;black wrapping paper
 WrappingPaper_07698_pl;black wrapping paper
+WrappingPaper_13792;festive wrapping paper
+WrappingPaper_13792_pl;festive wrapping paper
