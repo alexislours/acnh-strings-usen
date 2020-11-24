@@ -68,7 +68,11 @@ label;English
 1209;sky-egg outfit
 1210;water-egg outfit
 1219;wedding tuxedo
-141;cake dress
+1230;pirate-treasure robe
+1231;pirate outfit
+1244;mermaid fishy dress
+1245;mermaid princess dress
+141;wedding dress
 146;nurse's dress uniform
 150;PJ outfit
 153;ruffled dress
@@ -127,6 +131,7 @@ label;English
 282;wizard's robe
 291;striped halter dress
 293;miko attire
+294;pirate dress
 297;retro sleeveless dress
 302;hakama
 304;full-body tights

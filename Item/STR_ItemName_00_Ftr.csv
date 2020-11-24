@@ -128,6 +128,7 @@ Ftr_01170;swinging bench
 Ftr_01171;synthesizer
 Ftr_01177;foosball table
 Ftr_01181;tennis table
+Ftr_01182;bamboo grass
 Ftr_01185;phone box
 Ftr_01186;telescope
 Ftr_01189;tire stack
@@ -149,6 +150,8 @@ Ftr_01241;DIY workbench
 Ftr_01243;flashy-flower sign
 Ftr_01263;pear wardrobe
 Ftr_01266;barrel
+Ftr_01268;pirate-ship cannon
+Ftr_01273;pirate-ship helm
 Ftr_01277;cacao tree
 Ftr_01288;fan palm
 Ftr_01308;school chair
@@ -364,7 +367,7 @@ Ftr_03580;bonsai shelf
 Ftr_03581;fish-drying rack
 Ftr_03582;book
 Ftr_03583;fishing-boat flag
-Ftr_03584;writing poster
+Ftr_03584;study poster
 Ftr_03586;magazine
 Ftr_03587;fishing-rod stand
 Ftr_03588;signpost
@@ -396,8 +399,8 @@ Ftr_03689;sauna heater
 Ftr_03692;plain wooden shop sign
 Ftr_03697;portable radio
 Ftr_03699;fish print
-Ftr_03701;writing desk
-Ftr_03702;writing chair
+Ftr_03701;study desk
+Ftr_03702;study chair
 Ftr_03772;golden candlestick
 Ftr_03773;terrarium
 Ftr_03774;Libra scale
@@ -843,6 +846,20 @@ Ftr_12484;fossil plaque
 Ftr_12485;bug plaque
 Ftr_12486;fish plaque
 Ftr_12543;Nintendo Switch
+Ftr_12552;mermaid table
+Ftr_12553;mermaid shelf
+Ftr_12554;mermaid vanity
+Ftr_12555;mermaid screen
+Ftr_12556;mermaid lamp
+Ftr_12557;mermaid wall clock
+Ftr_12558;mermaid bed
+Ftr_12559;mermaid closet
+Ftr_12560;mermaid sofa
+Ftr_12561;mermaid dresser
+Ftr_12562;mermaid chair
 Ftr_12565;Reese & Cyrus photo plate
+Ftr_12572;sideways pirate barrel
+Ftr_12573;pirate-treasure chest
+Ftr_12574;pirate barrel
 Ftr_12579;ACNH Nintendo Switch
 Ftr_12741;world map
