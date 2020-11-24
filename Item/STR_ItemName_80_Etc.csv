@@ -1,4 +1,11 @@
 label;English
+Balloon_07869;blue balloon
+Balloon_13123;red balloon
+Balloon_13124;yellow balloon
+Balloon_13125;green balloon
+Balloon_13126;pink balloon
+BlowBubble_04386;bubble blower
+BlowBubble_04386_pl;bubble blowers
 DummyCardboard_04645;delivery
 DummyDIYRecipe_09046;Vaulting Pole Recipe
 DummyDIYRecipe_09047;Flimsy Shovel Recipe
@@ -35,8 +42,14 @@ DummyWrapping_07711;present
 DummyWrapping_07712;present
 DummyWrapping_07713;present
 DummyWrapping_07714;present
+FierworkHand_05743;red sparkler
+FierworkHand_05743_pl;red sparklers
+FierworkHand_12974;blue sparkler
+FierworkHand_12974_pl;blue sparklers
+FireworkM_13106;fountain firework
 FishBait_04549;fish bait
 FishBait_04549_pl;fish bait
+HandheldPennant_13128;Nook Inc. handheld pennant
 Honeycomb_03263;wasp nest
 Honeycomb_03263_pl;wasp nests
 HousingKit_02750;tent
@@ -76,8 +89,11 @@ MilePlaneTicket_05851;Nook Miles Ticket
 MilePlaneTicket_05851_pl;Nook Miles Tickets
 MilePlaneTicket_09964;Bell voucher
 MilePlaneTicket_09964_pl;Bell vouchers
+MilePlaneTicket_13228;Dream Bell exchange ticket
+MilePlaneTicket_13228_pl;Dream Bell exchange tickets
 Ocarina_05320;ocarina
 Panflute_05517;pan flute
+Partyhorn_05742;tweeter
 PartyPopper_02753;party popper
 PartyPopper_02753_pl;party poppers
 PitFallSeed_02578;pitfall seed
@@ -88,7 +104,10 @@ Tambourine_05430;tambourine
 Trash_03466;empty can
 Trash_03469;boot
 Trash_03470;old tire
+Trash_13107;used fountain firework
+Uchiwa_05319;uchiwa fan
 Uchiwa_09762;Nook Inc. uchiwa fan
+Windmill_05744;pinwheel
 WrappingPaper_07683;yellow wrapping paper
 WrappingPaper_07683_pl;yellow wrapping paper
 WrappingPaper_07684;pink wrapping paper
