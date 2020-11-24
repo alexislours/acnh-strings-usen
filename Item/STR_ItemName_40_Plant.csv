@@ -1,0 +1,419 @@
+label;English
+Flower_02304;red cosmos
+Flower_02304_pl;red cosmos
+Flower_02305;white cosmos
+Flower_02305_pl;white cosmos
+Flower_02863;yellow cosmos
+Flower_02863_pl;yellow cosmos
+Flower_02867;pink cosmos
+Flower_02867_pl;pink cosmos
+Flower_02871;orange cosmos
+Flower_02871_pl;orange cosmos
+Flower_02875;black cosmos
+Flower_02875_pl;black cosmos
+Flower_02879;white tulips
+Flower_02879_pl;white tulips
+Flower_02883;red tulips
+Flower_02883_pl;red tulips
+Flower_02887;yellow tulips
+Flower_02887_pl;yellow tulips
+Flower_02891;pink tulips
+Flower_02891_pl;pink tulips
+Flower_02895;orange tulips
+Flower_02895_pl;orange tulips
+Flower_02899;purple tulips
+Flower_02899_pl;purple tulips
+Flower_02903;black tulips
+Flower_02903_pl;black tulips
+Flower_02907;white pansies
+Flower_02907_pl;white pansies
+Flower_02911;red pansies
+Flower_02911_pl;red pansies
+Flower_02915;yellow pansies
+Flower_02915_pl;yellow pansies
+Flower_02919;orange pansies
+Flower_02919_pl;orange pansies
+Flower_02923;purple pansies
+Flower_02923_pl;purple pansies
+Flower_02927;blue pansies
+Flower_02927_pl;blue pansies
+Flower_02931;white roses
+Flower_02931_pl;white roses
+Flower_02935;red roses
+Flower_02935_pl;red roses
+Flower_02939;yellow roses
+Flower_02939_pl;yellow roses
+Flower_02943;pink roses
+Flower_02943_pl;pink roses
+Flower_02947;orange roses
+Flower_02947_pl;orange roses
+Flower_02951;purple roses
+Flower_02951_pl;purple roses
+Flower_02955;black roses
+Flower_02955_pl;black roses
+Flower_02959;blue roses
+Flower_02959_pl;blue roses
+Flower_02963;gold roses
+Flower_02963_pl;gold roses
+Flower_02979;white lilies
+Flower_02979_pl;white lilies
+Flower_02983;red lilies
+Flower_02983_pl;red lilies
+Flower_02987;yellow lilies
+Flower_02987_pl;yellow lilies
+Flower_02991;pink lilies
+Flower_02991_pl;pink lilies
+Flower_02995;orange lilies
+Flower_02995_pl;orange lilies
+Flower_02999;black lilies
+Flower_02999_pl;black lilies
+Flower_03709;white windflowers
+Flower_03709_pl;white windflowers
+Flower_03713;orange windflowers
+Flower_03713_pl;orange windflowers
+Flower_03717;blue windflowers
+Flower_03717_pl;blue windflowers
+Flower_03720;pink windflowers
+Flower_03720_pl;pink windflowers
+Flower_03723;red windflowers
+Flower_03723_pl;red windflowers
+Flower_03727;purple windflowers
+Flower_03727_pl;purple windflowers
+Flower_03730;white hyacinths
+Flower_03730_pl;white hyacinths
+Flower_03734;yellow hyacinths
+Flower_03734_pl;yellow hyacinths
+Flower_03738;pink hyacinths
+Flower_03738_pl;pink hyacinths
+Flower_03741;orange hyacinths
+Flower_03741_pl;orange hyacinths
+Flower_03744;red hyacinths
+Flower_03744_pl;red hyacinths
+Flower_03748;blue hyacinths
+Flower_03748_pl;blue hyacinths
+Flower_03751;purple hyacinths
+Flower_03751_pl;purple hyacinths
+Flower_03754;white mums
+Flower_03754_pl;white mums
+Flower_03758;yellow mums
+Flower_03758_pl;yellow mums
+Flower_03762;purple mums
+Flower_03762_pl;purple mums
+Flower_03765;pink mums
+Flower_03765_pl;pink mums
+Flower_03768;red mums
+Flower_03768_pl;red mums
+Flower_05175;green mums
+Flower_05175_pl;green mums
+FlowerBud_02627;red-cosmos stems
+FlowerBud_02628;red-cosmos buds
+FlowerBud_02630;white-cosmos stems
+FlowerBud_02631;white-cosmos buds
+FlowerBud_02865;yellow-cosmos stems
+FlowerBud_02866;yellow-cosmos buds
+FlowerBud_02869;pink-cosmos stems
+FlowerBud_02870;pink-cosmos buds
+FlowerBud_02873;orange-cosmos stems
+FlowerBud_02874;orange-cosmos buds
+FlowerBud_02877;black-cosmos stems
+FlowerBud_02878;black-cosmos buds
+FlowerBud_02881;white-tulip stems
+FlowerBud_02882;white-tulip buds
+FlowerBud_02885;red-tulip stems
+FlowerBud_02886;red-tulip buds
+FlowerBud_02889;yellow-tulip stems
+FlowerBud_02890;yellow-tulip buds
+FlowerBud_02893;pink-tulip stems
+FlowerBud_02894;pink-tulip buds
+FlowerBud_02897;orange-tulip stems
+FlowerBud_02898;orange-tulip buds
+FlowerBud_02901;purple-tulip stems
+FlowerBud_02902;purple-tulip buds
+FlowerBud_02905;black-tulip stems
+FlowerBud_02906;black-tulip buds
+FlowerBud_02909;white-pansy stems
+FlowerBud_02910;white-pansy buds
+FlowerBud_02913;red-pansy stems
+FlowerBud_02914;red-pansy buds
+FlowerBud_02917;yellow-pansy stems
+FlowerBud_02918;yellow-pansy buds
+FlowerBud_02921;orange-pansy stems
+FlowerBud_02922;orange-pansy buds
+FlowerBud_02925;purple-pansy stems
+FlowerBud_02926;purple-pansy buds
+FlowerBud_02929;blue-pansy stems
+FlowerBud_02930;blue-pansy buds
+FlowerBud_02933;white-rose stems
+FlowerBud_02934;white-rose buds
+FlowerBud_02937;red-rose stems
+FlowerBud_02938;red-rose buds
+FlowerBud_02941;yellow-rose stems
+FlowerBud_02942;yellow-rose buds
+FlowerBud_02945;pink-rose stems
+FlowerBud_02946;pink-rose buds
+FlowerBud_02949;orange-rose stems
+FlowerBud_02950;orange-rose buds
+FlowerBud_02953;purple-rose stems
+FlowerBud_02954;purple-rose buds
+FlowerBud_02957;black-rose stems
+FlowerBud_02958;black-rose buds
+FlowerBud_02961;blue-rose stems
+FlowerBud_02962;blue-rose buds
+FlowerBud_02965;gold-rose stems
+FlowerBud_02966;gold-rose buds
+FlowerBud_02981;white-lily stems
+FlowerBud_02982;white-lily buds
+FlowerBud_02985;red-lily stems
+FlowerBud_02986;red-lily buds
+FlowerBud_02989;yellow-lily stems
+FlowerBud_02990;yellow-lily buds
+FlowerBud_02993;pink-lily stems
+FlowerBud_02994;pink-lily buds
+FlowerBud_02997;orange-lily stems
+FlowerBud_02998;orange-lily buds
+FlowerBud_03001;black-lily stems
+FlowerBud_03002;black-lily buds
+FlowerBud_03711;white-windflower stems
+FlowerBud_03712;white-windflower buds
+FlowerBud_03715;orange-windflower stems
+FlowerBud_03716;orange-windflower buds
+FlowerBud_03718;blue-windflower stems
+FlowerBud_03719;blue-windflower buds
+FlowerBud_03721;pink-windflower stems
+FlowerBud_03722;pink-windflower buds
+FlowerBud_03725;red-windflower stems
+FlowerBud_03726;red-windflower buds
+FlowerBud_03728;purple-windflower stems
+FlowerBud_03729;purple-windflower buds
+FlowerBud_03732;white-hyacinth stems
+FlowerBud_03733;white-hyacinth buds
+FlowerBud_03736;yellow-hyacinth stems
+FlowerBud_03737;yellow-hyacinth buds
+FlowerBud_03739;pink-hyacinth stems
+FlowerBud_03740;pink-hyacinth buds
+FlowerBud_03742;orange-hyacinth stems
+FlowerBud_03743;orange-hyacinth buds
+FlowerBud_03746;red-hyacinth stems
+FlowerBud_03747;red-hyacinth buds
+FlowerBud_03749;blue-hyacinth stems
+FlowerBud_03750;blue-hyacinth buds
+FlowerBud_03752;purple-hyacinth stems
+FlowerBud_03753;purple-hyacinth buds
+FlowerBud_03756;white-mum stems
+FlowerBud_03757;white-mum buds
+FlowerBud_03760;yellow-mum stems
+FlowerBud_03761;yellow-mum buds
+FlowerBud_03763;purple-mum stems
+FlowerBud_03764;purple-mum buds
+FlowerBud_03766;pink-mum stems
+FlowerBud_03767;pink-mum buds
+FlowerBud_03770;red-mum stems
+FlowerBud_03771;red-mum buds
+FlowerBud_03778;green-mum stems
+FlowerBud_03779;green-mum buds
+FlowerBud_03823;red-cosmos sprouts
+FlowerBud_03824;red-cosmos plant
+FlowerBud_03825;white-cosmos sprouts
+FlowerBud_03826;white-cosmos plant
+FlowerBud_03827;yellow-cosmos sprouts
+FlowerBud_03828;yellow-cosmos plant
+FlowerBud_03830;pink-cosmos plant
+FlowerBud_03832;orange-cosmos plant
+FlowerBud_03834;black-cosmos plant
+FlowerBud_03835;white-tulip sprouts
+FlowerBud_03836;white-tulip plant
+FlowerBud_03837;red-tulip sprouts
+FlowerBud_03838;red-tulip plant
+FlowerBud_03839;yellow-tulip sprouts
+FlowerBud_03840;yellow-tulip plant
+FlowerBud_03842;pink-tulip plant
+FlowerBud_03844;orange-tulip plant
+FlowerBud_03846;purple-tulip plant
+FlowerBud_03848;black-tulip plant
+FlowerBud_03849;white-pansy sprouts
+FlowerBud_03850;white-pansy plant
+FlowerBud_03851;red-pansy sprouts
+FlowerBud_03852;red-pansy plant
+FlowerBud_03853;yellow-pansy sprouts
+FlowerBud_03854;yellow-pansy plant
+FlowerBud_03856;orange-pansy plant
+FlowerBud_03858;purple-pansy plant
+FlowerBud_03860;blue-pansy plant
+FlowerBud_03861;white-rose sprouts
+FlowerBud_03862;white-rose plant
+FlowerBud_03863;red-rose sprouts
+FlowerBud_03864;red-rose plant
+FlowerBud_03865;yellow-rose sprouts
+FlowerBud_03866;yellow-rose plant
+FlowerBud_03868;pink-rose plant
+FlowerBud_03870;orange-rose plant
+FlowerBud_03872;purple-rose plant
+FlowerBud_03874;black-rose plant
+FlowerBud_03876;blue-rose plant
+FlowerBud_03878;gold-rose plant
+FlowerBud_03885;white-lily sprouts
+FlowerBud_03886;white-lily plant
+FlowerBud_03887;red-lily sprouts
+FlowerBud_03888;red-lily plant
+FlowerBud_03889;yellow-lily sprouts
+FlowerBud_03890;yellow-lily plant
+FlowerBud_03892;pink-lily plant
+FlowerBud_03894;orange-lily plant
+FlowerBud_03896;black-lily plant
+FlowerBud_03897;white-windflower sprouts
+FlowerBud_03898;white-windflower plant
+FlowerBud_03899;orange-windflower sprouts
+FlowerBud_03900;orange-windflower plant
+FlowerBud_03902;blue-windflower plant
+FlowerBud_03904;pink-windflower plant
+FlowerBud_03905;red-windflower sprouts
+FlowerBud_03906;red-windflower plant
+FlowerBud_03908;purple-windflower plant
+FlowerBud_03909;white-hyacinth sprouts
+FlowerBud_03910;white-hyacinth plant
+FlowerBud_03911;yellow-hyacinth sprouts
+FlowerBud_03912;yellow-hyacinth plant
+FlowerBud_03914;pink-hyacinth plant
+FlowerBud_03916;orange-hyacinth plant
+FlowerBud_03917;red-hyacinth sprouts
+FlowerBud_03918;red-hyacinth plant
+FlowerBud_03920;blue-hyacinth plant
+FlowerBud_03922;purple-hyacinth plant
+FlowerBud_03923;white-mum sprouts
+FlowerBud_03924;white-mum plant
+FlowerBud_03925;yellow-mum sprouts
+FlowerBud_03926;yellow-mum plant
+FlowerBud_03928;purple-mum plant
+FlowerBud_03930;pink-mum plant
+FlowerBud_03931;red-mum sprouts
+FlowerBud_03932;red-mum plant
+FlowerBud_03934;green-mum plant
+FlowerBud_07651;Jacob's ladder plant
+FlowerSeed_02626;red-cosmos bag
+FlowerSeed_02626_pl;red-cosmos bags
+FlowerSeed_02629;white-cosmos bag
+FlowerSeed_02629_pl;white-cosmos bags
+FlowerSeed_02864;yellow-cosmos bag
+FlowerSeed_02864_pl;yellow-cosmos bags
+FlowerSeed_02880;white-tulip bag
+FlowerSeed_02880_pl;white-tulip bags
+FlowerSeed_02884;red-tulip bag
+FlowerSeed_02884_pl;red-tulip bags
+FlowerSeed_02888;yellow-tulip bag
+FlowerSeed_02888_pl;yellow-tulip bags
+FlowerSeed_02908;white-pansy bag
+FlowerSeed_02908_pl;white-pansy bags
+FlowerSeed_02912;red-pansy bag
+FlowerSeed_02912_pl;red-pansy bags
+FlowerSeed_02916;yellow-pansy bag
+FlowerSeed_02916_pl;yellow-pansy bags
+FlowerSeed_02932;white-rose bag
+FlowerSeed_02932_pl;white-rose bags
+FlowerSeed_02936;red-rose bag
+FlowerSeed_02936_pl;red-rose bags
+FlowerSeed_02940;yellow-rose bag
+FlowerSeed_02940_pl;yellow-rose bags
+FlowerSeed_02980;white-lily bag
+FlowerSeed_02980_pl;white-lily bags
+FlowerSeed_02984;red-lily bag
+FlowerSeed_02984_pl;red-lily bags
+FlowerSeed_02988;yellow-lily bag
+FlowerSeed_02988_pl;yellow-lily bags
+FlowerSeed_03710;white-windflower bag
+FlowerSeed_03710_pl;white-windflower bags
+FlowerSeed_03714;orange-windflower bag
+FlowerSeed_03714_pl;orange-windflower bags
+FlowerSeed_03724;red-windflower bag
+FlowerSeed_03724_pl;red-windflower bags
+FlowerSeed_03731;white-hyacinth bag
+FlowerSeed_03731_pl;white-hyacinth bags
+FlowerSeed_03735;yellow-hyacinth bag
+FlowerSeed_03735_pl;yellow-hyacinth bags
+FlowerSeed_03745;red-hyacinth bag
+FlowerSeed_03745_pl;red-hyacinth bags
+FlowerSeed_03755;white-mum bag
+FlowerSeed_03755_pl;white-mum bags
+FlowerSeed_03759;yellow-mum bag
+FlowerSeed_03759_pl;yellow-mum bags
+FlowerSeed_03769;red-mum bag
+FlowerSeed_03769_pl;red-mum bags
+Fruit_02213;apple
+Fruit_02213_pl;apples
+Fruit_02214;orange
+Fruit_02214_pl;oranges
+Fruit_02285;pear
+Fruit_02285_pl;pears
+Fruit_02286;peach
+Fruit_02286_pl;peaches
+Fruit_02287;cherry
+Fruit_02287_pl;cherries
+Fruit_02288;coconut
+Fruit_02288_pl;coconuts
+Mushroom_03276;elegant mushroom
+Mushroom_03276_pl;elegant mushrooms
+Mushroom_03277;round mushroom
+Mushroom_03277_pl;round mushrooms
+Mushroom_03278;skinny mushroom
+Mushroom_03278_pl;skinny mushrooms
+Mushroom_03279;flat mushroom
+Mushroom_03279_pl;flat mushrooms
+Mushroom_03280;rare mushroom
+Mushroom_03280_pl;rare mushrooms
+Tree_02796;small young hardwood
+Tree_02797;medium young hardwood
+Tree_02798;large young hardwood
+Tree_02799;hardwood tree
+Tree_02802;small young cedar
+Tree_02803;medium young cedar
+Tree_02804;large young cedar
+Tree_02805;cedar tree
+Tree_02806;nursery coconut
+Tree_02807;small young coconut
+Tree_02808;medium young coconut
+Tree_02809;large young coconut
+Tree_02810;coconut tree
+Tree_02811;nursery bamboo
+Tree_02812;small young bamboo
+Tree_02813;medium young bamboo
+Tree_02814;large young bamboo
+Tree_02815;bamboo tree
+Tree_03356;nursery apple
+Tree_03357;small young apple
+Tree_03358;medium young apple
+Tree_03359;large young apple
+Tree_03360;apple tree
+Tree_03361;nursery orange
+Tree_03362;small young orange
+Tree_03363;medium young orange
+Tree_03364;large young orange
+Tree_03365;orange tree
+Tree_03366;nursery pear
+Tree_03367;small young pear
+Tree_03368;medium young pear
+Tree_03369;large young pear
+Tree_03370;pear tree
+Tree_03371;nursery peach
+Tree_03372;small young peach
+Tree_03373;medium young peach
+Tree_03374;large young peach
+Tree_03375;peach tree
+Tree_03377;nursery cherry
+Tree_03378;small young cherry
+Tree_03379;medium young cherry
+Tree_03380;large young cherry
+Tree_03381;cherry tree
+Tree_04426;money tree
+Tree_04436;nursery money tree
+Tree_04437;small young money tree
+Tree_04438;medium young money tree
+Tree_04439;large young money tree
+Tree_05151;nursery cedar
+Tree_05152;nursery hardwood
+TreeSeedling_02794;sapling
+TreeSeedling_02794_pl;saplings
+TreeSeedling_02800;cedar sapling
+TreeSeedling_02800_pl;cedar saplings
+Vegetable_02295;bamboo shoot
+Vegetable_02295_pl;bamboo shoots
+Weed_02624;clump of weeds
+Weed_02624_pl;clumps of weeds

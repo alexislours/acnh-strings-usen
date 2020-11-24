@@ -1,0 +1,807 @@
+label;English
+Ftr_00080;clackercart
+Ftr_00083;rocking horse
+Ftr_00085;train set
+Ftr_00086;elephant slide
+Ftr_00088;ringtoss
+Ftr_00109;moss ball
+Ftr_00131;lucky cat
+Ftr_00132;succulent plant
+Ftr_00144;manhole cover
+Ftr_00146;cone
+Ftr_00287;exercise bike
+Ftr_00290;treadmill
+Ftr_00330;barbecue
+Ftr_00331;birdbath
+Ftr_00333;birdhouse
+Ftr_00335;Mr. Flamingo
+Ftr_00336;Mrs. Flamingo
+Ftr_00338;lawn mower
+Ftr_00343;tiki torch
+Ftr_00383;acoustic guitar
+Ftr_00530;grass standee
+Ftr_00531;hedge standee
+Ftr_00532;mountain standee
+Ftr_00533;tree standee
+Ftr_00546;stadiometer
+Ftr_00664;beach chair
+Ftr_00665;wave breaker
+Ftr_00667;shaved-ice maker
+Ftr_00669;ukulele
+Ftr_00676;tall lantern
+Ftr_00677;deer scare
+Ftr_00682;boomerang
+Ftr_00683;bottled ship
+Ftr_00685;Dala horse
+Ftr_00688;pagoda
+Ftr_00689;paper tiger
+Ftr_00690;hula doll
+Ftr_00693;Statue of Liberty
+Ftr_00698;moai statue
+Ftr_00700;Tower of Pisa
+Ftr_00704;tapestry
+Ftr_00710;bamboo bench
+Ftr_00716;screen
+Ftr_00717;clay furnace
+Ftr_00722;hearth
+Ftr_00724;kettle
+Ftr_00725;paper lantern
+Ftr_00729;garden rock
+Ftr_00730;tall garden rock
+Ftr_00739;tea table
+Ftr_00742;fireplace
+Ftr_00787;tape deck
+Ftr_00790;hi-fi stereo
+Ftr_00791;jukebox
+Ftr_00793;high-end stereo
+Ftr_00794;phonograph
+Ftr_00796;retro stereo
+Ftr_00805;mush lamp
+Ftr_00808;mush table
+Ftr_00832;modern office chair
+Ftr_00833;office locker
+Ftr_00839;safe
+Ftr_00840;office desk
+Ftr_00846;alto saxophone
+Ftr_00849;amp
+Ftr_00863;billiard table
+Ftr_00864;bingo wheel
+Ftr_00865;birdcage
+Ftr_00870;book stands
+Ftr_00875;breaker
+Ftr_00880;wooden bucket
+Ftr_00889;camp stove
+Ftr_00891;holiday candle
+Ftr_00896;cat tower
+Ftr_00907;vacuum cleaner
+Ftr_00908;upright vacuum
+Ftr_00915;cuckoo clock
+Ftr_00918;coffee cup
+Ftr_00920;coffee grinder
+Ftr_00928;pot rack
+Ftr_00929;air conditioner
+Ftr_00937;dartboard
+Ftr_00941;DJ's turntable
+Ftr_00950;effects rack
+Ftr_00954;espresso maker
+Ftr_00955;exit sign
+Ftr_00957;ventilation fan
+Ftr_00971;snack machine
+Ftr_00975;fruit basket
+Ftr_00981;go board
+Ftr_00987;harp
+Ftr_00997;incense burner
+Ftr_00998;kitchen island
+Ftr_01023;pile of leaves
+Ftr_01029;low screen
+Ftr_01032;magazine rack
+Ftr_01042;metronome
+Ftr_01043;microwave
+Ftr_01045;silver mic
+Ftr_01050;mixer
+Ftr_01054;moon
+Ftr_01058;music stand
+Ftr_01081;upright piano
+Ftr_01082;picnic basket
+Ftr_01087;pinball machine
+Ftr_01092;popcorn machine
+Ftr_01103;rocking chair
+Ftr_01111;outdoor bath
+Ftr_01112;colorful wheel
+Ftr_01116;sandbox
+Ftr_01117;sand castle
+Ftr_01120;scarecrow
+Ftr_01124;sea globe
+Ftr_01125;revolving spice rack
+Ftr_01126;server
+Ftr_01127;old sewing machine
+Ftr_01128;sewing machine
+Ftr_01131;outdoor air conditioner
+Ftr_01143;smoker
+Ftr_01145;snow globe
+Ftr_01149;soccer goal
+Ftr_01153;spinning wheel
+Ftr_01157;brick oven
+Ftr_01161;cream and sugar
+Ftr_01165;surveillance camera
+Ftr_01170;swinging bench
+Ftr_01171;synthesizer
+Ftr_01177;foosball table
+Ftr_01181;tennis table
+Ftr_01185;phone box
+Ftr_01186;telescope
+Ftr_01189;tire stack
+Ftr_01199;tricycle
+Ftr_01200;gold fish trophy
+Ftr_01201;silver fish trophy
+Ftr_01202;bronze fish trophy
+Ftr_01203;gold bug trophy
+Ftr_01204;silver bug trophy
+Ftr_01205;bronze bug trophy
+Ftr_01211;typewriter
+Ftr_01217;standing toilet
+Ftr_01221;video camera
+Ftr_01227;deluxe washer
+Ftr_01229;bathroom sink
+Ftr_01232;water cooler
+Ftr_01234;portable toilet
+Ftr_01241;DIY workbench
+Ftr_01243;flashy-flower sign
+Ftr_01263;pear wardrobe
+Ftr_01266;barrel
+Ftr_01277;cacao tree
+Ftr_01288;fan palm
+Ftr_01308;school chair
+Ftr_01317;anatomical model
+Ftr_01319;microscope
+Ftr_01326;skeleton
+Ftr_01328;school desk
+Ftr_01329;podium
+Ftr_01330;basic teacher's desk
+Ftr_01348;hamster cage
+Ftr_01411;globe
+Ftr_01412;TV camera
+Ftr_01429;campfire
+Ftr_01430;bonfire
+Ftr_01432;lantern
+Ftr_01433;campfire cookware
+Ftr_01434;sleeping bag
+Ftr_01439;asteroid
+Ftr_01440;lunar lander
+Ftr_01441;rocket
+Ftr_01442;lunar rover
+Ftr_01443;satellite
+Ftr_01444;space shuttle
+Ftr_01445;astronaut suit
+Ftr_01447;flying saucer
+Ftr_01449;cello
+Ftr_01452;weight bench
+Ftr_01456;judge's bell
+Ftr_01495;dolly
+Ftr_01499;Papa bear
+Ftr_01500;Mama bear
+Ftr_01501;Baby bear
+Ftr_01504;giant teddy bear
+Ftr_01507;teacup ride
+Ftr_01509;robot hero
+Ftr_01557;wooden-block bed
+Ftr_01558;wooden-block bookshelf
+Ftr_01559;wooden-block bench
+Ftr_01561;wooden-block chest
+Ftr_01565;wooden-block table
+Ftr_01567;oil barrel
+Ftr_01598;exercise ball
+Ftr_01606;serving cart
+Ftr_01620;hammock
+Ftr_01621;lawn chair
+Ftr_01624;garden gnome
+Ftr_01625;iron garden bench
+Ftr_01626;iron garden chair
+Ftr_01627;iron garden table
+Ftr_01628;garden lantern
+Ftr_01631;garden faucet
+Ftr_01632;golf bag
+Ftr_01644;rock guitar
+Ftr_01645;electric guitar
+Ftr_01652;matryoshka
+Ftr_01708;cassette player
+Ftr_01744;wall clock
+Ftr_01750;document stack
+Ftr_01753;aroma pot
+Ftr_01757;claw-foot tub
+Ftr_01759;stack of books
+Ftr_01778;clothesline pole
+Ftr_01779;table with cloth
+Ftr_01783;corkboard
+Ftr_01792;cushion
+Ftr_01797;decoy duck
+Ftr_01798;dinnerware
+Ftr_01799;doghouse
+Ftr_01802;drink machine
+Ftr_01803;drum set
+Ftr_01804;electric bass
+Ftr_01816;changing room
+Ftr_01823;trash bags
+Ftr_01829;cypress plant
+Ftr_01836;humidifier
+Ftr_01838;ironing set
+Ftr_01840;whirlpool bath
+Ftr_01845;simple kettle
+Ftr_01849;kotatsu
+Ftr_01850;laptop
+Ftr_01851;rocket lamp
+Ftr_01852;box sofa
+Ftr_01853;box corner sofa
+Ftr_01861;stacked magazines
+Ftr_01866;menu chalkboard
+Ftr_01868;desk mirror
+Ftr_01870;mug
+Ftr_01875;grand piano
+Ftr_01881;plastic canister
+Ftr_01888;rice cooker
+Ftr_01889;ring
+Ftr_01892;hourglass
+Ftr_01899;autograph cards
+Ftr_01913;wooden chair
+Ftr_01929;toilet
+Ftr_02010;ball
+Ftr_02012;chalkboard
+Ftr_02013;lecture-hall bench
+Ftr_02014;lecture-hall desk
+Ftr_02020;director's chair
+Ftr_02319;drinking fountain
+Ftr_02326;water pump
+Ftr_02329;tire toy
+Ftr_02333;solar panel
+Ftr_02335;lighthouse
+Ftr_02352;parabolic antenna
+Ftr_02553;iron frame
+Ftr_02554;double sofa
+Ftr_02555;garbage can
+Ftr_02556;garbage pail
+Ftr_02558;wooden-block chair
+Ftr_02559;pot
+Ftr_02560;wooden chest
+Ftr_02561;floor lamp
+Ftr_02562;candle
+Ftr_02586;natural garden chair
+Ftr_02592;tin bucket
+Ftr_02596;juicy-apple TV
+Ftr_02605;wooden simple bed
+Ftr_02614;mountain bike
+Ftr_02713;refrigerator
+Ftr_02731;digital alarm clock
+Ftr_02736;retro fan
+Ftr_02740;automatic washer
+Ftr_02754;simple well
+Ftr_02770;chessboard
+Ftr_02771;round space heater
+Ftr_02772;fancy violin
+Ftr_02775;squat toilet
+Ftr_02776;tankless toilet
+Ftr_03064;cooler box
+Ftr_03065;gold bars
+Ftr_03078;tourist telescope
+Ftr_03122;mini DIY workbench
+Ftr_03191;ironwood table
+Ftr_03193;ironwood chair
+Ftr_03194;ironwood low table
+Ftr_03195;ironwood cart
+Ftr_03196;ironwood dresser
+Ftr_03200;ironwood bed
+Ftr_03205;wooden-block stereo
+Ftr_03206;wooden-block toy
+Ftr_03208;wooden-block wall clock
+Ftr_03229;clothesline
+Ftr_03230;futon
+Ftr_03251;gas range
+Ftr_03252;LCD TV (50 in.)
+Ftr_03270;ironwood kitchenette
+Ftr_03271;ironwood cupboard
+Ftr_03275;ironwood clock
+Ftr_03282;pop-up toaster
+Ftr_03305;baby chair
+Ftr_03307;digital scale
+Ftr_03333;LCD TV (20 in.)
+Ftr_03340;deer decoration
+Ftr_03344;steamer-basket set
+Ftr_03345;lifeguard chair
+Ftr_03346;public bench
+Ftr_03348;plastic pool
+Ftr_03396;natural garden table
+Ftr_03397;stone table
+Ftr_03398;stone stool
+Ftr_03399;intercom monitor
+Ftr_03400;dish-drying rack
+Ftr_03406;beekeeper's hive
+Ftr_03407;katana
+Ftr_03410;small cardboard boxes
+Ftr_03411;medium cardboard boxes
+Ftr_03412;large cardboard boxes
+Ftr_03415;termite mound
+Ftr_03416;soft-serve lamp
+Ftr_03428;wall-mounted TV (50 in.)
+Ftr_03430;playground gym
+Ftr_03431;wall fan
+Ftr_03436;wooden wardrobe
+Ftr_03438;wooden end table
+Ftr_03439;wooden table
+Ftr_03442;sturdy sewing box
+Ftr_03443;sewing project
+Ftr_03444;wheelchair
+Ftr_03445;standard umbrella stand
+Ftr_03446;western-style stone
+Ftr_03449;wooden stool
+Ftr_03467;tea set
+Ftr_03468;beach towel
+Ftr_03471;switch
+Ftr_03472;golden toilet
+Ftr_03473;golden seat
+Ftr_03490;wooden waste bin
+Ftr_03497;frozen table
+Ftr_03498;frozen partition
+Ftr_03499;frozen arch
+Ftr_03500;frozen pillar
+Ftr_03501;frozen sculpture
+Ftr_03502;frozen bed
+Ftr_03503;frozen chair
+Ftr_03504;frozen tree
+Ftr_03505;frozen counter
+Ftr_03509;garden bench
+Ftr_03551;bamboo shelf
+Ftr_03553;bamboo partition
+Ftr_03554;bamboo candleholder
+Ftr_03555;bamboo doll
+Ftr_03556;bamboo stopblock
+Ftr_03557;bamboo floor lamp
+Ftr_03558;bamboo wall decoration
+Ftr_03559;iron wall lamp
+Ftr_03560;iron worktable
+Ftr_03561;iron hanger stand
+Ftr_03562;iron wall rack
+Ftr_03563;iron shelf
+Ftr_03580;bonsai shelf
+Ftr_03581;fish-drying rack
+Ftr_03582;book
+Ftr_03583;fishing-boat flag
+Ftr_03584;writing poster
+Ftr_03586;magazine
+Ftr_03587;fishing-rod stand
+Ftr_03588;signpost
+Ftr_03590;desktop computer
+Ftr_03591;birthday candles
+Ftr_03592;birthday cake
+Ftr_03593;birthday table
+Ftr_03594;birthday sign
+Ftr_03595;park clock
+Ftr_03596;pool
+Ftr_03615;open-frame kitchen
+Ftr_03616;system kitchen
+Ftr_03617;stall
+Ftr_03618;cutting board
+Ftr_03619;food jar
+Ftr_03620;toy cockroach
+Ftr_03621;loft bed with desk
+Ftr_03622;floor seat
+Ftr_03623;toy box
+Ftr_03624;cute bed
+Ftr_03654;oil lamp
+Ftr_03658;bamboo basket
+Ftr_03672;cardboard box
+Ftr_03675;hay bed
+Ftr_03681;piano bench
+Ftr_03683;plain sink
+Ftr_03684;coconut juice
+Ftr_03689;sauna heater
+Ftr_03692;plain wooden shop sign
+Ftr_03697;portable radio
+Ftr_03699;fish print
+Ftr_03701;writing desk
+Ftr_03702;writing chair
+Ftr_03772;golden candlestick
+Ftr_03773;terrarium
+Ftr_03774;Libra scale
+Ftr_03775;hanging terrarium
+Ftr_03776;brick well
+Ftr_03783;den desk
+Ftr_03784;den chair
+Ftr_03785;potted ivy
+Ftr_03802;pine bonsai tree
+Ftr_03805;mush parasol
+Ftr_03806;mush partition
+Ftr_03808;mush log
+Ftr_03810;golden dishes
+Ftr_03816;streetlamp
+Ftr_03817;spider web
+Ftr_03818;pennant
+Ftr_03819;oil-barrel bathtub
+Ftr_03820;fan
+Ftr_03821;air circulator
+Ftr_03822;pro tape recorder
+Ftr_03943;ironwood DIY workbench
+Ftr_03946;outdoor table
+Ftr_03947;outdoor bench
+Ftr_03948;accessories stand
+Ftr_03949;anthurium plant
+Ftr_03950;antique chair
+Ftr_03951;antique console table
+Ftr_03952;antique table
+Ftr_03953;antique phone
+Ftr_03954;antique clock
+Ftr_03955;antique vanity
+Ftr_03956;antique bureau
+Ftr_03957;antique bed
+Ftr_03958;antique mini table
+Ftr_03959;antique wardrobe
+Ftr_03960;handy water cooler
+Ftr_03961;fortune-telling set
+Ftr_03962;inflatable sofa
+Ftr_03963;film projector
+Ftr_03965;painting set
+Ftr_03966;big festive tree
+Ftr_03967;broom and dustpan
+Ftr_03968;homework set
+Ftr_03969;toy centipede
+Ftr_03970;imperial decorative shelves
+Ftr_03971;imperial partition
+Ftr_03972;imperial chest
+Ftr_03973;imperial bed
+Ftr_03974;imperial low table
+Ftr_03975;orange end table
+Ftr_03976;orange wall-mounted clock
+Ftr_03977;shell arch
+Ftr_03978;shell partition
+Ftr_03979;shell stool
+Ftr_03980;shell table
+Ftr_03982;shell fountain
+Ftr_03983;shell bed
+Ftr_03984;shell lamp
+Ftr_03986;wall-mounted TV (20 in.)
+Ftr_03987;wall-mounted phone
+Ftr_03991;festive tree
+Ftr_03992;key holder
+Ftr_03993;analog kitchen scale
+Ftr_03995;cute DIY table
+Ftr_03996;cute wall-mounted clock
+Ftr_03997;cute wardrobe
+Ftr_03998;cute sofa
+Ftr_03999;cute chair
+Ftr_04000;cute tea table
+Ftr_04001;cute vanity
+Ftr_04002;cute floor lamp
+Ftr_04003;cute music player
+Ftr_04006;climbing wall
+Ftr_04008;kettle bathtub
+Ftr_04009;cordless phone
+Ftr_04011;cherry speakers
+Ftr_04012;cherry lamp
+Ftr_04013;sandbag
+Ftr_04014;folding floor lamp
+Ftr_04015;shower booth
+Ftr_04016;lab-experiments set
+Ftr_04017;shower set
+Ftr_04019;stand mixer
+Ftr_04023;pants press
+Ftr_04025;unglazed dish set
+Ftr_04026;utility sink
+Ftr_04027;floral swag
+Ftr_04028;retro radiator
+Ftr_04029;rotary phone
+Ftr_04030;bathroom towel rack
+Ftr_04033;traditional tea set
+Ftr_04034;scattered papers
+Ftr_04035;log garden lounge
+Ftr_04036;log decorative shelves
+Ftr_04037;log wall-mounted clock
+Ftr_04038;log stool
+Ftr_04039;log sofa
+Ftr_04040;log dining table
+Ftr_04041;log bed
+Ftr_04042;log bench
+Ftr_04043;log round table
+Ftr_04044;log extra-long sofa
+Ftr_04045;rattan waste bin
+Ftr_04046;rattan end table
+Ftr_04047;rattan stool
+Ftr_04048;rattan towel basket
+Ftr_04049;rattan wardrobe
+Ftr_04050;rattan table lamp
+Ftr_04051;rattan vanity
+Ftr_04052;rattan bed
+Ftr_04053;rattan armchair
+Ftr_04054;rattan low table
+Ftr_04066;illuminated tree
+Ftr_04067;tabletop festive tree
+Ftr_04068;table setting
+Ftr_04069;table lamp
+Ftr_04070;street organ
+Ftr_04071;electronics kit
+Ftr_04072;toilet-cleaning set
+Ftr_04073;classic pitcher
+Ftr_04074;illuminated reindeer
+Ftr_04075;gong
+Ftr_04076;nail-art set
+Ftr_04077;party garland
+Ftr_04078;barbell
+Ftr_04080;long bathtub
+Ftr_04081;camping cot
+Ftr_04093;bamboo drum
+Ftr_04094;floating-biotope planter
+Ftr_04098;bidet
+Ftr_04099;formal paper
+Ftr_04100;fire pit
+Ftr_04101;fax machine
+Ftr_04102;poolside bed
+Ftr_04104;frying pan
+Ftr_04105;plasma ball
+Ftr_04106;pendulum clock
+Ftr_04107;infused-water dispenser
+Ftr_04108;illuminated present
+Ftr_04109;double-door refrigerator
+Ftr_04110;essay set
+Ftr_04111;old-fashioned alarm clock
+Ftr_04113;hose reel
+Ftr_04114;tissue box
+Ftr_04116;whiteboard
+Ftr_04117;wood-burning stove
+Ftr_04118;magnetic knife rack
+Ftr_04119;macrame tapestry
+Ftr_04121;marimba
+Ftr_04122;cartoonist's set
+Ftr_04123;mini-cactus set
+Ftr_04124;wooden fish
+Ftr_04125;wooden bookshelf
+Ftr_04127;peach chair
+Ftr_04128;peach surprise box
+Ftr_04129;monstera
+Ftr_04130;coconut wall planter
+Ftr_04131;illuminated snowflakes
+Ftr_04132;yucca
+Ftr_04133;double-sided wall clock
+Ftr_04134;apple chair
+Ftr_04135;freezer
+Ftr_04137;diner chair
+Ftr_04138;diner counter chair
+Ftr_04139;diner counter table
+Ftr_04140;retro gas pump
+Ftr_04141;diner sofa
+Ftr_04142;diner dining table
+Ftr_04143;diner neon sign
+Ftr_04144;diner neon clock
+Ftr_04226;basketball hoop
+Ftr_04230;glass holder with candle
+Ftr_04269;green-leaf pile
+Ftr_04270;yellow-leaf pile
+Ftr_04271;red-leaf pile
+Ftr_04279;frozen-treat set
+Ftr_04308;unfinished puzzle
+Ftr_04309;destinations signpost
+Ftr_04338;portable record player
+Ftr_04379;springy ride-on
+Ftr_04381;football
+Ftr_04392;magic kit
+Ftr_04393;wooden washtub
+Ftr_04412;cotton-candy stall
+Ftr_04441;diner mini table
+Ftr_04445;vintage TV tray
+Ftr_04546;pear bed
+Ftr_04572;shaded floor lamp
+Ftr_04687;toolbox
+Ftr_04708;mush low stool
+Ftr_04719;celebratory candles
+Ftr_04722;monster statue
+Ftr_04753;throwback wrestling figure
+Ftr_04754;throwback gothic mirror
+Ftr_04756;throwback wall clock
+Ftr_04757;throwback skull radio
+Ftr_04758;throwback mitt chair
+Ftr_04759;throwback race-car bed
+Ftr_04760;throwback hat table
+Ftr_04761;throwback rocket
+Ftr_04762;throwback container
+Ftr_04763;throwback dino screen
+Ftr_05150;shell speaker
+Ftr_05165;wall-mounted candle
+Ftr_05337;three-tiered snowperson
+Ftr_05338;simple panel
+Ftr_05543;wooden-block stool
+Ftr_05635;tiny library
+Ftr_05636;wooden-plank sign
+Ftr_05676;crewed spaceship
+Ftr_05884;とたけけのスツール
+Ftr_05931;jail bars
+Ftr_05941;golden dung beetle
+Ftr_05954;Aries rocking chair
+Ftr_05955;Virgo harp
+Ftr_05956;Aquarius urn
+Ftr_05957;Capricorn ornament
+Ftr_05958;Sagittarius arrow
+Ftr_05959;Cancer table
+Ftr_05960;Gemini closet
+Ftr_05961;Taurus bathtub
+Ftr_05962;Scorpio lamp
+Ftr_05963;Pisces lamp
+Ftr_05964;Leo sculpture
+Ftr_05970;firewood
+Ftr_05972;wild log bench
+Ftr_05973;log stakes
+Ftr_05975;traditional balancing toy
+Ftr_05976;bamboo sphere
+Ftr_05977;bamboo-shoot lamp
+Ftr_05978;bamboo lunch box
+Ftr_05979;bamboo noodle slide
+Ftr_06030;cherry-blossom bonsai
+Ftr_06031;cherry-blossom branches
+Ftr_06032;cherry-blossom-petal pile
+Ftr_06033;outdoor picnic set
+Ftr_06075;tree's bounty mobile
+Ftr_06078;tree's bounty lamp
+Ftr_06079;tree's bounty little tree
+Ftr_06080;tree's bounty big tree
+Ftr_06081;tree's bounty arch
+Ftr_06813;とたけけライブのイス
+Ftr_06818;ornament mobile
+Ftr_06826;nova light
+Ftr_06827;starry garland
+Ftr_06829;crescent-moon chair
+Ftr_06831;blossom-viewing lantern
+Ftr_06832;cherry-blossom clock
+Ftr_07032;gold HHA trophy
+Ftr_07035;gold HHA plaque
+Ftr_07036;silver HHA plaque
+Ftr_07037;bronze HHA plaque
+Ftr_07040;HHA pennant
+Ftr_07043;Stonehenge
+Ftr_07045;recycled-can thumb piano
+Ftr_07047;zen cushion
+Ftr_07048;pile of zen cushions
+Ftr_07098;bronze HHA trophy
+Ftr_07100;silver HHA trophy
+Ftr_07132;wooden double bed
+Ftr_07133;wooden mini table
+Ftr_07134;wooden low table
+Ftr_07135;floor light
+Ftr_07136;cat grass
+Ftr_07137;wooden full-length mirror
+Ftr_07138;Mom's tea cozy
+Ftr_07139;Mom's art
+Ftr_07140;Mom's tissue box
+Ftr_07141;Mom's pen stand
+Ftr_07142;simple DIY workbench
+Ftr_07143;Mom's candle set
+Ftr_07144;Mom's cushion
+Ftr_07145;Mom's embroidery
+Ftr_07146;Mom's homemade cake
+Ftr_07147;Mom's plushie
+Ftr_07148;life ring
+Ftr_07150;blue corner
+Ftr_07151;red corner
+Ftr_07152;neutral corner
+Ftr_07153;cypress bathtub
+Ftr_07159;cardboard sofa
+Ftr_07160;cardboard table
+Ftr_07161;cardboard bed
+Ftr_07163;cardboard chair
+Ftr_07189;studio spotlight
+Ftr_07190;studio wall spotlight
+Ftr_07229;handcart
+Ftr_07230;cosmos shower
+Ftr_07231;tulip surprise box
+Ftr_07232;mum cushion
+Ftr_07233;windflower fan
+Ftr_07234;hyacinth lamp
+Ftr_07235;rose bed
+Ftr_07236;lily record player
+Ftr_07237;pansy table
+Ftr_07238;anchor statue
+Ftr_07247;silo
+Ftr_07253;star clock
+Ftr_07257;pedal board
+Ftr_07258;modeling clay
+Ftr_07259;palm-tree lamp
+Ftr_07260;floor sign
+Ftr_07261;trophy case
+Ftr_07262;metal can
+Ftr_07264;champion's pennant
+Ftr_07280;gears
+Ftr_07281;sleigh
+Ftr_07282;hanging scroll
+Ftr_07284;nutcracker
+Ftr_07317;zen-style stone
+Ftr_07379;wind turbine
+Ftr_07390;leaf stool
+Ftr_07391;tatami bed
+Ftr_07392;candy machine
+Ftr_07393;pond stone
+Ftr_07408;maple-leaf pond stone
+Ftr_07409;cherry-blossom pond stone
+Ftr_07452;raccoon figurine
+Ftr_07453;aluminum briefcase
+Ftr_07454;wooden toolbox
+Ftr_07525;tool shelf
+Ftr_07526;outdoor generator
+Ftr_07527;flower stand
+Ftr_07528;tool cart
+Ftr_07529;folding chair
+Ftr_07531;ironing board
+Ftr_07535;kettlebell
+Ftr_07599;board game
+Ftr_07653;speed bag
+Ftr_07654;electric kick scooter
+Ftr_07681;loom
+Ftr_07682;kimono stand
+Ftr_07788;leaf campfire
+Ftr_07789;drying rack
+Ftr_07795;stone lion-dog
+Ftr_07796;imperial dining table
+Ftr_07797;imperial dining chair
+Ftr_07800;protein shaker bottle
+Ftr_07801;pet food bowl
+Ftr_07802;pet bed
+Ftr_07803;kitty litter box
+Ftr_07804;knife block
+Ftr_07805;butter churn
+Ftr_07838;fresh cooler
+Ftr_07839;artisanal bug cage
+Ftr_07845;pull-up-bar stand
+Ftr_07865;elaborate kimono stand
+Ftr_07867;angled signpost
+Ftr_07868;surfboard
+Ftr_08031;fountain
+Ftr_08096;record box
+Ftr_08150;South Pole
+Ftr_08225;arcade fighting game
+Ftr_08226;arcade combat game
+Ftr_08227;arcade platforming game
+Ftr_08297;stovetop espresso maker
+Ftr_08298;bunk bed
+Ftr_08415;imperial dining lantern
+Ftr_08417;wall-mounted tool board
+Ftr_08418;fragrance diffuser
+Ftr_08419;garden wagon
+Ftr_08464;Newton's cradle
+Ftr_08465;velvet stool
+Ftr_08608;pyramid
+Ftr_08702;sphinx
+Ftr_08825;golden casket
+Ftr_08826;wooden table mirror
+Ftr_09502;clothes closet
+Ftr_09503;mic stand
+Ftr_09565;mobile
+Ftr_09568;construction sign
+Ftr_09584;beach ball
+Ftr_09619;utility pole
+Ftr_09642;iron closet
+Ftr_09698;Baby panda
+Ftr_09699;Mama panda
+Ftr_09700;Papa panda
+Ftr_09766;mini fridge
+Ftr_09767;garbage bin
+Ftr_09814;lucky gold cat
+Ftr_10244;fragrance sticks
+Ftr_10742;bamboo stool
+Ftr_10743;bamboo speaker
+Ftr_11098;mantis-head model
+Ftr_11099;grasshopper-head model
+Ftr_11100;wasp-head model
+Ftr_11127;black-bass model
+Ftr_11128;blue-marlin model
+Ftr_11182;butterfly-fish model
+Ftr_11260;gold-arowana model
+Ftr_11261;golden gears
+Ftr_11283;brine-shrimp aquarium
+Ftr_11866;ant farm
+Ftr_11941;stone arch
+Ftr_11942;street piano
+Ftr_11943;stone tablet
+Ftr_12139;DAL mug
+Ftr_12140;DAL model plane
+Ftr_12201;ひろばのベンチ
+Ftr_12206;flat garden rock
+Ftr_12207;arcade seat
+Ftr_12208;mossy garden rock
+Ftr_12209;パニエルのせんたくおけ
+Ftr_12210;パニエルのものほしロープ
+Ftr_12229;パニエルのいしがま
+Ftr_12230;festive top set
+Ftr_12332;natural square table

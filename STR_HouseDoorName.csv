@@ -1,0 +1,247 @@
+label;English
+00000;wooden door
+00002;wooden door
+00003;iron door
+00004;iron door
+00005;metal-accent door
+00006;metal-accent door
+00009;common door
+00010;common door
+00014;zen door
+00015;zen door
+00016;windowed door
+00017;windowed door
+00018;iron grill door
+00019;iron grill door
+00020;imperial door
+00021;imperial door
+00022;white simple door
+00023;white simple door
+00026;white fancy door
+00027;white fancy door
+00028;basic door
+00029;basic door
+00030;vertical-panes door
+00031;vertical-panes door
+00032;brown latticework door
+00033;brown latticework door
+00034;rustic door
+00035;rustic door
+00040;maple iron grill door
+00041;green iron grill door
+00042;pale-blue iron grill door
+00043;pink iron grill door
+00044;white iron grill door
+00045;maple iron grill door
+00046;green iron grill door
+00047;pale-blue iron grill door
+00048;pink iron grill door
+00049;white iron grill door
+00050;black fancy door
+00051;red fancy door
+00052;pink fancy door
+00053;blue fancy door
+00054;black fancy door
+00055;red fancy door
+00056;pink fancy door
+00057;blue fancy door
+00058;dark-brown iron grill door
+00059;dark-brown iron grill door
+00060;gray iron grill door
+00061;gray iron grill door
+00062;maple vertical-panes door
+00063;green vertical-panes door
+00064;blue vertical-panes door
+00065;yellow vertical-panes door
+00066;red vertical-panes door
+00067;white vertical-panes door
+00068;black vertical-panes door
+00069;maple vertical-panes door
+00070;green vertical-panes door
+00071;blue vertical-panes door
+00072;yellow vertical-panes door
+00073;red vertical-panes door
+00074;white vertical-panes door
+00075;black vertical-panes door
+00076;red common door
+00077;blue common door
+00078;green common door
+00079;yellow common door
+00080;gray common door
+00081;white common door
+00082;black common door
+00083;red common door
+00084;blue common door
+00085;green common door
+00086;yellow common door
+00087;gray common door
+00088;white common door
+00089;black common door
+00090;red metal-accent door
+00091;blue metal-accent door
+00092;green metal-accent door
+00093;pink metal-accent door
+00094;brown metal-accent door
+00095;purple metal-accent door
+00096;white metal-accent door
+00097;red metal-accent door
+00098;blue metal-accent door
+00099;green metal-accent door
+00100;pink metal-accent door
+00101;brown metal-accent door
+00102;purple metal-accent door
+00103;white metal-accent door
+00132;beige simple door
+00133;gray simple door
+00134;blue simple door
+00135;pink simple door
+00136;yellow simple door
+00137;deep-green simple door
+00138;purple simple door
+00139;beige simple door
+00140;gray simple door
+00141;blue simple door
+00142;pink simple door
+00143;yellow simple door
+00144;deep-green simple door
+00145;purple simple door
+00146;yellow zen door
+00147;brown zen door
+00148;red zen door
+00149;black zen door
+00150;lacquered zen door
+00151;yellow zen door
+00152;brown zen door
+00153;red zen door
+00154;black zen door
+00155;lacquered zen door
+00156;walnut latticework door
+00157;red latticework door
+00158;latticework door
+00159;gray latticework door
+00160;blue latticework door
+00161;white latticework door
+00162;black latticework door
+00163;walnut latticework door
+00164;red latticework door
+00165;latticework door
+00166;gray latticework door
+00167;blue latticework door
+00168;white latticework door
+00169;black latticework door
+00170;green basic door
+00171;yellow basic door
+00172;burgundy basic door
+00173;blue basic door
+00174;pale-blue basic door
+00175;beige basic door
+00176;white basic door
+00177;green basic door
+00178;yellow basic door
+00179;burgundy basic door
+00180;blue basic door
+00181;pale-blue basic door
+00182;beige basic door
+00183;white basic door
+00184;white zen door
+00185;white zen door
+00186;white rustic door
+00187;maple rustic door
+00188;black rustic door
+00189;red rustic door
+00190;blue rustic door
+00191;light-green rustic door
+00192;pink rustic door
+00193;white rustic door
+00194;maple rustic door
+00195;black rustic door
+00196;red rustic door
+00197;blue rustic door
+00198;light-green rustic door
+00199;pink rustic door
+00200;brown imperial door
+00201;red imperial door
+00202;yellow imperial door
+00203;green imperial door
+00204;red-green imperial door
+00205;white imperial door
+00206;black imperial door
+00207;brown imperial door
+00208;red imperial door
+00209;yellow imperial door
+00210;green imperial door
+00211;red-green imperial door
+00212;white imperial door
+00213;black imperial door
+00221;maple windowed door
+00222;red windowed door
+00223;green windowed door
+00224;blue windowed door
+00225;gray windowed door
+00226;beige windowed door
+00227;white windowed door
+00228;maple windowed door
+00229;red windowed door
+00230;green windowed door
+00231;blue windowed door
+00232;gray windowed door
+00233;beige windowed door
+00234;white windowed door
+00235;red iron door
+00236;blue iron door
+00237;yellow iron door
+00238;green iron door
+00239;pink iron door
+00240;gray iron door
+00241;white iron door
+00242;red iron door
+00243;blue iron door
+00244;yellow iron door
+00245;green iron door
+00246;pink iron door
+00247;gray iron door
+00248;white iron door
+00249;maple wooden door
+00250;red wooden door
+00251;green wooden door
+00252;blue wooden door
+00253;gray wooden door
+00254;beige wooden door
+00255;white wooden door
+00256;maple wooden door
+00257;red wooden door
+00258;green wooden door
+00259;blue wooden door
+00260;gray wooden door
+00261;beige wooden door
+00262;white wooden door
+00263;green-apple common door
+00264;green-apple common door
+00265;purple common door
+00266;purple common door
+00267;yellow fancy door
+00268;yellow fancy door
+00269;pink basic door
+00270;pink basic door
+00271;green-apple basic door
+00272;green-apple basic door
+00273;purple vertical-panes door
+00274;purple vertical-panes door
+00275;cyan vertical-panes door
+00276;cyan vertical-panes door
+00277;pink windowed door
+00278;pink windowed door
+00279;purple windowed door
+00280;purple windowed door
+00281;pink wooden door
+00282;pink wooden door
+00283;purple wooden door
+00284;purple wooden door
+00285;pale-purple rustic door
+00286;pale-purple rustic door
+00287;green rustic door
+00288;green rustic door
+00289;red iron grill door
+00290;red iron grill door
+00291;purple iron grill door
+00292;purple iron grill door
