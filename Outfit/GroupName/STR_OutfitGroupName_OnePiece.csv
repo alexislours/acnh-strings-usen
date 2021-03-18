@@ -77,15 +77,21 @@ label;English
 1262;raggedy outfit
 1263;mage's dress
 1264;flashy animal costume
+1293;Kerokerokeroppi outfit
 1301;Orihime outfit
 1302;Hikoboshi outfit
+1303;Hello Kitty dress
 1315;magic-academy robe
+1316;Kiki & Lala dress
+1317;Pompompurin outfit
 1321;Mario outfit
 1322;Luigi outfit
 1323;Wario outfit
 1330;Princess Peach dress
+1332;My Melody dress
 1344;Festivale costume
 1352;shamrock suit
+1361;vibrant tuxedo
 141;wedding dress
 146;nurse's dress uniform
 150;PJ outfit
@@ -128,6 +134,7 @@ label;English
 205;milkmaid dress
 211;space suit
 213;racing outfit
+214;sequin dress
 215;skirt with suspenders
 216;box-skirt uniform
 219;denim overalls
@@ -141,6 +148,7 @@ label;English
 267;nightgown
 268;judogi
 276;striped dress
+278;bubble-skirt party dress
 279;linen dress
 282;wizard's robe
 291;striped halter dress
@@ -192,6 +200,7 @@ label;English
 452;house-print dress
 453;forest-print dress
 454;rugby uniform
+455;slip dress
 456;iron armor
 457;long down coat
 458;gold armor

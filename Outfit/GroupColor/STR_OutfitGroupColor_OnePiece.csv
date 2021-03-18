@@ -260,23 +260,36 @@ label;English
 1264_OnePiece_13379;Green
 1264_OnePiece_13380;Red
 1264_OnePiece_13381;Black
+1293_OnePiece_13180;Green
 1301_OnePiece_13239;Red
 1302_OnePiece_13240;Blue
+1303_OnePiece_13276;Blue
 1315_OnePiece_13387;Orange
 1315_OnePiece_13491;Purple
 1315_OnePiece_13492;White
 1315_OnePiece_13493;Green
 1315_OnePiece_13494;Red
 1315_OnePiece_13495;Black
+1316_OnePiece_13433;Pink
+1317_OnePiece_13486;Yellow
 1321_OnePiece_13555;Blue
 1322_OnePiece_13556;Navy blue
 1323_OnePiece_13557;Purple
 1330_OnePiece_13564;Pink
+1332_OnePiece_13758;Pink
 1344_OnePiece_14016;Blue
 1344_OnePiece_14240;Red
 1344_OnePiece_14241;Purple
 1344_OnePiece_14242;Green
 1352_OnePiece_14236;Green
+1361_OnePiece_14261;Red
+1361_OnePiece_14403;Blue
+1361_OnePiece_14404;Green
+1361_OnePiece_14405;Yellow
+1361_OnePiece_14406;Orange
+1361_OnePiece_14407;Purple
+1361_OnePiece_14408;Brown
+1361_OnePiece_14409;Monotone
 141_OnePiece_03336;White
 146_OnePiece_03347;Pink
 146_OnePiece_07792;White
@@ -428,6 +441,14 @@ label;English
 213_OnePiece_09466;Blue
 213_OnePiece_09467;Yellow
 213_OnePiece_09468;Black
+214_OnePiece_03659;Pink
+214_OnePiece_07870;Red
+214_OnePiece_07871;Black
+214_OnePiece_07872;Yellow
+214_OnePiece_07873;White
+214_OnePiece_07874;Blue
+214_OnePiece_07875;Purple
+214_OnePiece_07876;Green
 215_OnePiece_03660;Red
 215_OnePiece_09022;Orange
 215_OnePiece_09023;Pink
@@ -494,6 +515,14 @@ label;English
 276_OnePiece_07773;Gray
 276_OnePiece_07774;Green
 276_OnePiece_07775;Pink
+278_OnePiece_04264;Pink
+278_OnePiece_07892;Purple
+278_OnePiece_07893;Blue
+278_OnePiece_07894;Light blue
+278_OnePiece_07895;Green
+278_OnePiece_07896;Yellow
+278_OnePiece_07897;Orange
+278_OnePiece_07898;Red
 279_OnePiece_04265;Black
 279_OnePiece_08586;Red
 279_OnePiece_08587;Mustard
@@ -707,6 +736,12 @@ label;English
 454_OnePiece_07633;Blue & black
 454_OnePiece_07634;Green & black
 454_OnePiece_07635;Orange & black
+455_OnePiece_04587;Blue
+455_OnePiece_07930;Black
+455_OnePiece_07931;Orange
+455_OnePiece_07932;Yellow
+455_OnePiece_07933;Gray
+455_OnePiece_07934;Red
 456_OnePiece_04588;Gray
 457_OnePiece_04589;Black
 457_OnePiece_08326;Green
