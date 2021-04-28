@@ -10,6 +10,7 @@ InsectConvention4;Bug-Off
 Countdown;Countdown
 MothersDay;Mother's Day
 FathersDay;Father's Day
+FathersDay2;Father's Day
 WorldChild;International Children's Day
 SummerSolstice;Summer Solstice
 SouthernMidwinter;Summer Solstice
@@ -46,3 +47,11 @@ RegionAprilFool;April Fools' Day
 RegionProm;Prom
 RegionProm2;Prom
 RegionTreeDay;Singmogil
+RegionChildrensDay;Children's Day
+RegionCheeseFestival;Cheese Rolling
+RegionDragonBoatFestival;Dano Festival
+RegionDragonBoatFestivalCh;Dragon Boat Festival
+RegionMarineDay;Marine Day
+RegionParisFestival;Le 14 juillet
+RegionJuneBride;Wedding Season
+RegionJuneBride2;Wedding Season
